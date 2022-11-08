@@ -162,3 +162,21 @@ footer {
 .projects > a > img:hover {
     box-shadow: #5b687b;
 }
+
+
+@media screen and (max-width: 640px){
+       
+    header {
+        display:block;
+        padding: 0;
+    }
+
+    #profile1 {
+        padding-left: 5rem;
+    }
+
+    #profile3 {
+        color: #5b687b;
+        width: 400px;
+    }
+}
