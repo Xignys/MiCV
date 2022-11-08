@@ -189,4 +189,12 @@ footer {
         margin-left: 0;
     }
 
+    .resume > p {
+        padding: 0 1.5rem;
+    }
+    
+    .resume > ul {
+        padding: 0 4rem;
+    }
+
 }
