@@ -172,11 +172,20 @@ footer {
     }
 
     #profile1 {
-        justify-content: center;
+        padding-left: 3rem;
     }
 
     #profile3 {
         color: #5b687b;
-        width: 400px;
+        width: 300px;
+    }
+
+    #container {
+        display: block;
+    }
+
+    .main {
+        border-left-width: 0px;
+        margin-left: 0px;
     }
 }
