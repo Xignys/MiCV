@@ -185,8 +185,8 @@ footer {
         display: block;
     }
 
-    .main {
-        margin-left: 0p;
+    main {
+        margin-left: 0;
     }
 
 }
